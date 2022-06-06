@@ -1,0 +1,22 @@
+
+Gurobi 9.5.1 (mac64[arm], Python) logging started Mon Jun  6 14:10:09 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-06-01
+Gurobi Optimizer version 9.5.1 build v9.5.1rc2 (mac64[arm])
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Model fingerprint: 0xf9715da1
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
